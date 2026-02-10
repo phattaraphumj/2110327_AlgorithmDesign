@@ -22,6 +22,7 @@ test
 *.pch
 
 # --- Folders for build output (โฟลเดอร์ที่มักใช้เก็บตัวรัน) ---
+.chp/
 [Bb]in/
 [Bb]uild/
 [Oo]bj/
