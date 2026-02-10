@@ -1,0 +1,1 @@
+{"name":"Local: a60b_q1_diagsum","url":"c:\\study\\Algorithm\\a60b_q1_diagsum.cpp","tests":[{"id":1770607209314,"input":"4\n1 2 3 4\n-2 -5 2 -5\n6 3 -7 1\n3 -2 7 -9\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\Algorithm\\a60b_q1_diagsum.cpp","group":"local","local":true}

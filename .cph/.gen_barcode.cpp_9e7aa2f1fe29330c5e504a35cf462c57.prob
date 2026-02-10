@@ -1,0 +1,1 @@
+{"name":"Local: gen_barcode","url":"c:\\study\\Algorithm\\gen_barcode.cpp","tests":[{"id":1768964475573,"input":"2 5","output":"00011\n00101\n01001\n10001\n00110\n01010\n10010\n01100\n10100\n11000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\Algorithm\\gen_barcode.cpp","group":"local","local":true}

@@ -1,0 +1,48 @@
+# --- Compiled Object files (ไฟล์ขยะจากการคอมไพล์) ---
+*.o
+*.obj
+*.res
+
+# --- Executables (ไฟล์โปรแกรมที่รันได้ ไม่ควรเอาขึ้น) ---
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# ชื่อไฟล์ output ยอดฮิต
+a.out
+main
+test
+
+# --- C++ Specific ---
+*.d
+*.gch
+*.pch
+
+# --- Folders for build output (โฟลเดอร์ที่มักใช้เก็บตัวรัน) ---
+[Bb]in/
+[Bb]uild/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# --- IDE & Editors (ไฟล์ตั้งค่าของโปรแกรมเขียนโค้ด) ---
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.pdb
+*.idb
+
+# Mac OS (ถ้าใช้แมค)
+.DS_Store
+
+# Windows (ถ้าใช้วินโดวส์)
+Thumbs.db
