@@ -1,1 +1,0 @@
-{"name":"Local: a65_q1_tower_defense","url":"c:\\study\\Algorithm\\a65_q1_tower_defense.cpp","tests":[{"id":1769397611633,"input":"100 3 3 1\n80 70 60\n1 1 1\n70 71 69\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\Algorithm\\a65_q1_tower_defense.cpp","group":"local","local":true}

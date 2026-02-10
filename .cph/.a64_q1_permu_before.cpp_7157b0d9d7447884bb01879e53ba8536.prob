@@ -1,1 +1,0 @@
-{"name":"Local: a64_q1_permu_before","url":"c:\\study\\Algorithm\\a64_q1_permu_before.cpp","tests":[{"id":1769011119290,"input":"3 2\n1 2\n0 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\Algorithm\\a64_q1_permu_before.cpp","group":"local","local":true}

@@ -1,1 +1,0 @@
-{"name":"Local: ex02h1_closest","url":"c:\\study\\Algorithm\\ex02h1_closest.cpp","tests":[{"id":1770478539734,"input":"6\n10 2\n10 4\n10 6\n12 3\n12 5\n12 7\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\Algorithm\\ex02h1_closest.cpp","group":"local","local":true}

@@ -1,1 +1,0 @@
-{"name":"Local: consecutive_ones","url":"c:\\study\\Algorithm\\consecutive_ones.cpp","tests":[{"id":1768310591346,"input":"4 2","output":"0011\n0110\n0111\n1011\n1100\n1101\n1110\n1111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\study\\Algorithm\\consecutive_ones.cpp","group":"local","local":true}
